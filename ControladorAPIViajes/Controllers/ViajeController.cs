@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DominioAPIViajes.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ServicioAPIViajes.Interfaces;
 
@@ -35,6 +36,13 @@ namespace ControladorAPIViajes.Controllers
         {
             var viajes = service.ObtenerPorOrigenDestino(idOrigen, idDestino);
             return Ok(viajes);
+        }
+
+        [HttpPost]
+        public IActionResult CreateUser([FromBody] Viaje viaje)
+        {
+            service.Agregar(viaje);
+            return CreatedAtAction(nameof(ObtenerPorId), new { id = viaje.Id }, viaje);
         }
 
     }

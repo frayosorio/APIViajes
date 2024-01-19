@@ -12,3 +12,4 @@ D:\Documentos\Opitech\Proyectos\APIViajes\DominioAPIViajes\obj\Debug\net8.0\refi
 D:\Documentos\Opitech\Proyectos\APIViajes\DominioAPIViajes\obj\Debug\net8.0\DominioAPIViajes.pdb
 D:\Documentos\Opitech\Proyectos\APIViajes\DominioAPIViajes\obj\Debug\net8.0\DominioAPIViajes.genruntimeconfig.cache
 D:\Documentos\Opitech\Proyectos\APIViajes\DominioAPIViajes\obj\Debug\net8.0\ref\DominioAPIViajes.dll
+D:\Documentos\Opitech\Proyectos\APIViajes\DominioAPIViajes\obj\Debug\net8.0\DominioAPIViajes.sourcelink.json

@@ -1,0 +1,16 @@
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\bin\Debug\net8.0\RepositorioAPIViajes.deps.json
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\bin\Debug\net8.0\RepositorioAPIViajes.dll
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\bin\Debug\net8.0\RepositorioAPIViajes.pdb
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\bin\Debug\net8.0\DominioAPIViajes.dll
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\bin\Debug\net8.0\DominioAPIViajes.pdb
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\RepositorioAPIViajes.csproj.AssemblyReference.cache
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\RepositorioAPIViajes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\RepositorioAPIViajes.AssemblyInfoInputs.cache
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\RepositorioAPIViajes.AssemblyInfo.cs
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\RepositorioAPIViajes.csproj.CoreCompileInputs.cache
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\RepositorioAPIViajes.sourcelink.json
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\RepositorioAPIViajes.csproj.CopyComplete
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\RepositorioAPIViajes.dll
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\refint\RepositorioAPIViajes.dll
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\RepositorioAPIViajes.pdb
+D:\Documentos\Opitech\Proyectos\APIViajes\RepositorioAPIViajes\obj\Debug\net8.0\ref\RepositorioAPIViajes.dll

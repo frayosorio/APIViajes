@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepositorioAPIViajes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53ac95377942d429c538cc941ddd49e1f180790")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepositorioAPIViajes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepositorioAPIViajes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
